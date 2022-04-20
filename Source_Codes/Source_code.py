@@ -18,3 +18,7 @@ def feature1():
 
 def feature2():
     print("This is Feature 2")
+
+
+def feature3():
+    print("This is Feature 3")
