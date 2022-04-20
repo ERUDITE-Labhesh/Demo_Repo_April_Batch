@@ -10,4 +10,11 @@ def function_2(name):
 
 def fuction_3(name):
     print("Welcome", name)
-    
+
+
+def feature1():
+    print("This is Feature 1")
+
+
+def feature2():
+    print("This is Feature 2")
